@@ -64,7 +64,7 @@ elif [[ "$flagtest" -eq 1  ]]; then
     docker exec -it evosuite-runner-container bash -c "run-scripts/bash/main.sh -t $rounds classes.csv $LIMIT 180 50 0.5 > consoleLog/consoleOutTest.txt 2> consoleLog/consoleErrTest.txt"
 else
     # Pure EvoSuite
-    docker exec -it evosuite-runner-container bash -c "run-scripts/bash/main.sh $rounds classes.csv $LIMIT 180 50 0 > consoleLog/consoleOutPure.txt 2> consoleLog/consoleErrPure.txt"
+    docker exec -it evosuite-runner-container bash -c "run-scripts/bash/main.sh $rounds classes.csv $LIMIT 180 50 0 0 > consoleLog/consoleOutPure.txt 2> consoleLog/consoleErrPure.txt"
 fi
 
 echo "Done!"
