@@ -1,0 +1,459 @@
+Round 1 experiment
+0
+project: gson
+target_class: com.google.gson.internal.bind.TypeAdapters
+clone_seed_p: 0
+execution_id: 1
+Compile /evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-1/com/google/gson/internal/bind/TypeAdapters_ESTest_scaffolding.java
+Compile /evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-1/com/google/gson/internal/bind/TypeAdapters_ESTest.java
+67 javac
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-1
+JUnit version 4.10
+.......................................................................
+Time: 1.863
+
+OK (71 tests)
+
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-1
+JUnit version 4.10
+.......................................................................
+Time: 1.765
+
+OK (71 tests)
+
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-1
+JUnit version 4.10
+.......................................................................
+Time: 1.754
+
+OK (71 tests)
+
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-1
+JUnit version 4.10
+.......................................................................
+Time: 1.751
+
+OK (71 tests)
+
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-1
+JUnit version 4.10
+.......................................................................
+Time: 1.832
+
+OK (71 tests)
+
+--> cp: /evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-1:pitest/libs/pitest/pitest-1.4.7.jar:pitest/libs/pitest/pitest-command-line-1.4.7.jar:pitest/libs/pitest/pitest-entry-1.4.7.jar:pitest/libs/pitest/pitest-evosuite-plugin-1.0-SNAPSHOT.jar:, src: sources/gson/gson/src, outDir: pitest/out/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-1, mutableCps: /evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar,/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar,, logDir: pitest/logs/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-1.txt
+Round 2 experiment
+0
+project: gson
+target_class: com.google.gson.internal.bind.TypeAdapters
+clone_seed_p: 0
+execution_id: 2
+Compile /evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-2/com/google/gson/internal/bind/TypeAdapters_ESTest_scaffolding.java
+Compile /evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-2/com/google/gson/internal/bind/TypeAdapters_ESTest.java
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-2
+JUnit version 4.10
+..............................................................
+Time: 1.695
+
+OK (62 tests)
+
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-2
+JUnit version 4.10
+..............................................................
+Time: 1.599
+
+OK (62 tests)
+
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-2
+PIT execution is finished. Execution log: pitest/logs/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-1.txt
+JUnit version 4.10
+..............................................................
+Time: 1.742
+
+OK (62 tests)
+
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-2
+JUnit version 4.10
+..............................................................
+Time: 1.827
+
+OK (62 tests)
+
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-2
+JUnit version 4.10
+..............................................................
+Time: 1.787
+
+OK (62 tests)
+
+--> cp: /evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-2:pitest/libs/pitest/pitest-1.4.7.jar:pitest/libs/pitest/pitest-command-line-1.4.7.jar:pitest/libs/pitest/pitest-entry-1.4.7.jar:pitest/libs/pitest/pitest-evosuite-plugin-1.0-SNAPSHOT.jar:, src: sources/gson/gson/src, outDir: pitest/out/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-2, mutableCps: /evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar,/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar,, logDir: pitest/logs/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-2.txt
+Round 3 experiment
+0
+project: gson
+target_class: com.google.gson.internal.bind.TypeAdapters
+clone_seed_p: 0
+execution_id: 3
+Compile /evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-3/com/google/gson/internal/bind/TypeAdapters_ESTest_scaffolding.java
+Compile /evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-3/com/google/gson/internal/bind/TypeAdapters_ESTest.java
+1869 javac
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-3
+JUnit version 4.10
+.................................................................
+Time: 1.664
+
+OK (65 tests)
+
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-3
+JUnit version 4.10
+.................................................................
+Time: 1.856
+
+OK (65 tests)
+
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-3
+PIT execution is finished. Execution log: pitest/logs/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-2.txt
+JUnit version 4.10
+.................................................................
+Time: 1.792
+
+OK (65 tests)
+
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-3
+JUnit version 4.10
+.................................................................
+Time: 1.693
+
+OK (65 tests)
+
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-3
+JUnit version 4.10
+.................................................................
+Time: 1.625
+
+OK (65 tests)
+
+--> cp: /evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-3:pitest/libs/pitest/pitest-1.4.7.jar:pitest/libs/pitest/pitest-command-line-1.4.7.jar:pitest/libs/pitest/pitest-entry-1.4.7.jar:pitest/libs/pitest/pitest-evosuite-plugin-1.0-SNAPSHOT.jar:, src: sources/gson/gson/src, outDir: pitest/out/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-3, mutableCps: /evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar,/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar,, logDir: pitest/logs/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-3.txt
+Round 4 experiment
+0
+project: gson
+target_class: com.google.gson.internal.bind.TypeAdapters
+clone_seed_p: 0
+execution_id: 4
+Compile /evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-4/com/google/gson/internal/bind/TypeAdapters_ESTest_scaffolding.java
+Compile /evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-4/com/google/gson/internal/bind/TypeAdapters_ESTest.java
+2875 javac
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-4
+JUnit version 4.10
+...................................................................
+Time: 1.647
+
+OK (67 tests)
+
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-4
+JUnit version 4.10
+...................................................................
+Time: 1.789
+
+OK (67 tests)
+
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-4
+PIT execution is finished. Execution log: pitest/logs/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-3.txt
+JUnit version 4.10
+...................................................................
+Time: 1.544
+
+OK (67 tests)
+
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-4
+JUnit version 4.10
+...................................................................
+Time: 1.663
+
+OK (67 tests)
+
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-4
+JUnit version 4.10
+...................................................................
+Time: 1.811
+
+OK (67 tests)
+
+--> cp: /evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-4:pitest/libs/pitest/pitest-1.4.7.jar:pitest/libs/pitest/pitest-command-line-1.4.7.jar:pitest/libs/pitest/pitest-entry-1.4.7.jar:pitest/libs/pitest/pitest-evosuite-plugin-1.0-SNAPSHOT.jar:, src: sources/gson/gson/src, outDir: pitest/out/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-4, mutableCps: /evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar,/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar,, logDir: pitest/logs/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-4.txt
+Round 5 experiment
+0
+project: gson
+target_class: com.google.gson.internal.bind.TypeAdapters
+clone_seed_p: 0
+execution_id: 5
+Compile /evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-5/com/google/gson/internal/bind/TypeAdapters_ESTest_scaffolding.java
+Compile /evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-5/com/google/gson/internal/bind/TypeAdapters_ESTest.java
+3899 javac
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-5
+JUnit version 4.10
+.................................................................
+Time: 1.649
+
+OK (65 tests)
+
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-5
+JUnit version 4.10
+.................................................................
+Time: 1.75
+
+OK (65 tests)
+
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-5
+PIT execution is finished. Execution log: pitest/logs/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-4.txt
+JUnit version 4.10
+.................................................................
+Time: 1.817
+
+OK (65 tests)
+
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-5
+JUnit version 4.10
+.................................................................
+Time: 1.879
+
+OK (65 tests)
+
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-5
+JUnit version 4.10
+.................................................................
+Time: 1.921
+
+OK (65 tests)
+
+--> cp: /evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-5:pitest/libs/pitest/pitest-1.4.7.jar:pitest/libs/pitest/pitest-command-line-1.4.7.jar:pitest/libs/pitest/pitest-entry-1.4.7.jar:pitest/libs/pitest/pitest-evosuite-plugin-1.0-SNAPSHOT.jar:, src: sources/gson/gson/src, outDir: pitest/out/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-5, mutableCps: /evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar,/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar,, logDir: pitest/logs/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-5.txt
+Round 6 experiment
+0
+project: gson
+target_class: com.google.gson.internal.bind.TypeAdapters
+clone_seed_p: 0
+execution_id: 6
+Compile /evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-6/com/google/gson/internal/bind/TypeAdapters_ESTest_scaffolding.java
+Compile /evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-6/com/google/gson/internal/bind/TypeAdapters_ESTest.java
+4904 javac
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-6
+JUnit version 4.10
+........................................................
+Time: 1.594
+
+OK (56 tests)
+
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-6
+JUnit version 4.10
+........................................................
+Time: 1.567
+
+OK (56 tests)
+
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-6
+PIT execution is finished. Execution log: pitest/logs/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-5.txt
+JUnit version 4.10
+........................................................
+Time: 1.865
+
+OK (56 tests)
+
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-6
+JUnit version 4.10
+........................................................
+Time: 1.722
+
+OK (56 tests)
+
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-6
+JUnit version 4.10
+........................................................
+Time: 1.848
+
+OK (56 tests)
+
+--> cp: /evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-6:pitest/libs/pitest/pitest-1.4.7.jar:pitest/libs/pitest/pitest-command-line-1.4.7.jar:pitest/libs/pitest/pitest-entry-1.4.7.jar:pitest/libs/pitest/pitest-evosuite-plugin-1.0-SNAPSHOT.jar:, src: sources/gson/gson/src, outDir: pitest/out/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-6, mutableCps: /evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar,/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar,, logDir: pitest/logs/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-6.txt
+Round 7 experiment
+0
+project: gson
+target_class: com.google.gson.internal.bind.TypeAdapters
+clone_seed_p: 0
+execution_id: 7
+Compile /evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-7/com/google/gson/internal/bind/TypeAdapters_ESTest_scaffolding.java
+Compile /evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-7/com/google/gson/internal/bind/TypeAdapters_ESTest.java
+5863 javac
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-7
+JUnit version 4.10
+........................................................
+Time: 1.758
+
+OK (56 tests)
+
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-7
+JUnit version 4.10
+........................................................
+Time: 1.764
+
+OK (56 tests)
+
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-7
+PIT execution is finished. Execution log: pitest/logs/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-6.txt
+JUnit version 4.10
+........................................................
+Time: 1.923
+
+OK (56 tests)
+
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-7
+JUnit version 4.10
+........................................................
+Time: 1.825
+
+OK (56 tests)
+
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-7
+JUnit version 4.10
+........................................................
+Time: 1.672
+
+OK (56 tests)
+
+--> cp: /evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-7:pitest/libs/pitest/pitest-1.4.7.jar:pitest/libs/pitest/pitest-command-line-1.4.7.jar:pitest/libs/pitest/pitest-entry-1.4.7.jar:pitest/libs/pitest/pitest-evosuite-plugin-1.0-SNAPSHOT.jar:, src: sources/gson/gson/src, outDir: pitest/out/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-7, mutableCps: /evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar,/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar,, logDir: pitest/logs/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-7.txt
+Round 8 experiment
+0
+project: gson
+target_class: com.google.gson.internal.bind.TypeAdapters
+clone_seed_p: 0
+execution_id: 8
+Compile /evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-8/com/google/gson/internal/bind/TypeAdapters_ESTest_scaffolding.java
+Compile /evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-8/com/google/gson/internal/bind/TypeAdapters_ESTest.java
+6814 javac
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-8
+JUnit version 4.10
+................................................................
+Time: 1.709
+
+OK (64 tests)
+
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-8
+JUnit version 4.10
+................................................................
+Time: 1.764
+
+OK (64 tests)
+
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-8
+PIT execution is finished. Execution log: pitest/logs/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-7.txt
+JUnit version 4.10
+................................................................
+Time: 1.828
+
+OK (64 tests)
+
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-8
+JUnit version 4.10
+................................................................
+Time: 1.827
+
+OK (64 tests)
+
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-8
+JUnit version 4.10
+................................................................
+Time: 1.813
+
+OK (64 tests)
+
+--> cp: /evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-8:pitest/libs/pitest/pitest-1.4.7.jar:pitest/libs/pitest/pitest-command-line-1.4.7.jar:pitest/libs/pitest/pitest-entry-1.4.7.jar:pitest/libs/pitest/pitest-evosuite-plugin-1.0-SNAPSHOT.jar:, src: sources/gson/gson/src, outDir: pitest/out/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-8, mutableCps: /evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar,/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar,, logDir: pitest/logs/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-8.txt
+Round 9 experiment
+0
+project: gson
+target_class: com.google.gson.internal.bind.TypeAdapters
+clone_seed_p: 0
+execution_id: 9
+Compile /evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-9/com/google/gson/internal/bind/TypeAdapters_ESTest_scaffolding.java
+Compile /evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-9/com/google/gson/internal/bind/TypeAdapters_ESTest.java
+7800 javac
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-9
+JUnit version 4.10
+........................................................
+Time: 1.695
+
+OK (56 tests)
+
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-9
+JUnit version 4.10
+........................................................
+Time: 1.582
+
+OK (56 tests)
+
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-9
+PIT execution is finished. Execution log: pitest/logs/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-8.txt
+JUnit version 4.10
+........................................................
+Time: 1.72
+
+OK (56 tests)
+
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-9
+JUnit version 4.10
+........................................................
+Time: 1.558
+
+OK (56 tests)
+
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-9
+JUnit version 4.10
+........................................................
+Time: 1.867
+
+OK (56 tests)
+
+--> cp: /evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-9:pitest/libs/pitest/pitest-1.4.7.jar:pitest/libs/pitest/pitest-command-line-1.4.7.jar:pitest/libs/pitest/pitest-entry-1.4.7.jar:pitest/libs/pitest/pitest-evosuite-plugin-1.0-SNAPSHOT.jar:, src: sources/gson/gson/src, outDir: pitest/out/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-9, mutableCps: /evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar,/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar,, logDir: pitest/logs/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-9.txt
+Round 10 experiment
+0
+project: gson
+target_class: com.google.gson.internal.bind.TypeAdapters
+clone_seed_p: 0
+execution_id: 10
+Compile /evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-10/com/google/gson/internal/bind/TypeAdapters_ESTest_scaffolding.java
+Compile /evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-10/com/google/gson/internal/bind/TypeAdapters_ESTest.java
+8762 javac
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-10
+JUnit version 4.10
+.................................................................
+Time: 1.604
+
+OK (65 tests)
+
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-10
+JUnit version 4.10
+.................................................................
+Time: 1.736
+
+OK (65 tests)
+
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-10
+PIT execution is finished. Execution log: pitest/logs/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-9.txt
+JUnit version 4.10
+.................................................................
+Time: 1.522
+
+OK (65 tests)
+
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-10
+JUnit version 4.10
+.................................................................
+Time: 1.691
+
+OK (65 tests)
+
+/evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-10
+JUnit version 4.10
+.................................................................
+Time: 1.623
+
+OK (65 tests)
+
+--> cp: /evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar:/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar:/evosuite/pitest/libs/test_execution/evosuite-standalone-runtime-1.0.6.jar:/evosuite/pitest/libs/test_execution/junit-4.10.jar:/evosuite/generated_tests/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-10:pitest/libs/pitest/pitest-1.4.7.jar:pitest/libs/pitest/pitest-command-line-1.4.7.jar:pitest/libs/pitest/pitest-entry-1.4.7.jar:pitest/libs/pitest/pitest-evosuite-plugin-1.0-SNAPSHOT.jar:, src: sources/gson/gson/src, outDir: pitest/out/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-10, mutableCps: /evosuite/bins/gson/gson-2.8.7-SNAPSHOT-tests.jar,/evosuite/bins/gson/gson-2.8.7-SNAPSHOT.jar,, logDir: pitest/logs/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-10.txt
+PIT execution is finished. Execution log: pitest/logs/no_seeding/gson-com.google.gson.internal.bind.TypeAdapters-0-10.txt
