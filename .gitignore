@@ -127,3 +127,25 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+.classpath
+.project
+.settings
+eclipsebin
+target
+*/target
+pom.xml.*
+release.properties
+
+.idea
+*.iml
+*.ipr
+*.iws
+classes
+
+.gradle
+local.properties
+build
+
+.DS_Store
