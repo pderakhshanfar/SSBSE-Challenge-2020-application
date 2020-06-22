@@ -1,6 +1,18 @@
 # SSBSE-Challenge-2020-application
+
+
 This is the replication package of our study for SSBSE 2020 challenge
 
+**Table of Content:**
+- [Model Generation](#model-generation)
+- [Test Generation](#test-generation)
+- [Mutation Score](#mutation-score)
+  * [Run PIT](#run-pit)
+  * [Collect mutation scores](#collect-mutation-scores)
+  * [Collect killed mutants](#collect-killed-mutants)
+- [Data Analysis](#data-analysis)
+  * [Coverage analysis](#coverage-analysis)
+  * [killed mutants analysis](#killed-mutants-analysis)
 
 # Model Generation
 for model generation go to `model-generation` directory:
