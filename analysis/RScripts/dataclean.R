@@ -4,7 +4,7 @@ library(dplyr)
 TOTAL_RUNS = 10
 classes <- c("com.google.gson.stream.JsonReader")
 LIMIT = 0
-
+## mutants-related data
 readModelAllMutantsCSV <- function(){
   csvFile='../test-generation/pitest/killed_mutants/allModelMutants.csv'
   df <- read.csv(csvFile, stringsAsFactors = FALSE)
@@ -62,3 +62,27 @@ getManualMutants <- function(){
   
   return(df)
 }
+
+## coverage data
+
+
+getModelSeedingResult <- function(){
+  df <- read.csv('../test-generation/results/model-results.csv', stringsAsFactors = FALSE)
+
+  return(df)
+}
+
+
+getPureResult <- function(){
+  df <- read.csv('../test-generation/results/no-results.csv', stringsAsFactors = FALSE)
+
+  return(df)
+}
+
+getMutationScores <- function(){
+  df <- read.csv('../test-generation/pitest/csv/mutation_score.csv', stringsAsFactors = FALSE) %>%
+  mutate(score = killed_mutants / total_mutants)
+
+  return(df)
+}
+
