@@ -98,20 +98,20 @@ for evosuite + model seeding:
 bash pitest/scripts/bash collect_mutation_scores.sh -m -r 10 classes.csv 0.3 0.5
 ```
 
-the CSV will be stoed in `pitest/csv`.
+the CSV will be stored in `pitest/csv`.
 
 
 To perform the mutant analysis you need to make large CSV files containing all of the mutants in `JsonReader` class. For make these CSVs, run the following scripts:
 
 for default evosuite:
 ```
-bash pitest/scripts/bash collect_all_mutants.sh 10 classes.csv 0.3 0.5 TRUE
+bash pitest/scripts/bash/collect_all_mutants.sh 10 classes.csv 0.3 0.5 TRUE
 ```
 
 for evosuite + model seeding:
 
 ```
-bash pitest/scripts/bash collect_all_mutants.sh -m 10 classes.csv 0.3 0.5 TRUE
+bash pitest/scripts/bash/collect_all_mutants.sh -m 10 classes.csv 0.3 0.5 TRUE
 ```
 
 The CSV files will be stored in `pitest/killed_mutants`.
