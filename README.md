@@ -83,6 +83,8 @@ bash docker-mutation-score.sh -m -r 10 12 0.3 0.5
 
 After pit execution, the PIT reports will be saved in `pitest/out`.
 
+__!__ The script does not run PIT if we already have a report for a test case. So, for replicating the PIT execution phase, you need to remove the existing PIT reports from the `pitest/out` directory.
+
 To make a CSV file of mutation scores, run the following script in the container:
 
 for default evosuite:
