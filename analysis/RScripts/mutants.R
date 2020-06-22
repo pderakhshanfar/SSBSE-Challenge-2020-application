@@ -1,4 +1,4 @@
-source('clean-data-all.r')
+source('RScripts/dataclean.R')
 
 
 manualMutants <- getManualMutants()%>%
